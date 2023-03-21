@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteFioTecApplication", "TesteFioTecApplication.csproj", "{18DF66A5-96BF-4F8E-8256-DA491B28D794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteFioTecBiblioteca", "..\TesteFioTecBiblioteca\TesteFioTecBiblioteca.csproj", "{913B90DE-836C-4F14-BEF0-660ED3329167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DF66A5-96BF-4F8E-8256-DA491B28D794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DF66A5-96BF-4F8E-8256-DA491B28D794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DF66A5-96BF-4F8E-8256-DA491B28D794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DF66A5-96BF-4F8E-8256-DA491B28D794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913B90DE-836C-4F14-BEF0-660ED3329167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913B90DE-836C-4F14-BEF0-660ED3329167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913B90DE-836C-4F14-BEF0-660ED3329167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913B90DE-836C-4F14-BEF0-660ED3329167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC658B5-3312-4E3B-9975-97B6DB44F639}
+	EndGlobalSection
+EndGlobal
